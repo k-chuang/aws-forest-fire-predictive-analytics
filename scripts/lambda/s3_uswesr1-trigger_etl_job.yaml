@@ -1,0 +1,24 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: 'AWS::Serverless-2016-10-31'
+Description: object in s3 bucket-landing-zone2-triggers-glue-etl-job-uswest1-region
+Resources:
+  s3uswesr1triggeretljob:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      Handler: lambda_function.lambda_handler
+      Runtime: python3.7
+      CodeUri: .
+      Description: object in s3 bucket-landing-zone2-triggers-glue-etl-job-uswest1-region
+      MemorySize: 768
+      Timeout: 123
+      Role: 'arn:aws:iam::931462350408:role/role_lambda_s3_glue'
+      Events:
+        BucketEvent1:
+          Type: S3
+          Properties:
+            Bucket:
+              Ref: Bucket1
+            Events:
+              - 's3:ObjectCreated:*'
+  Bucket1:
+    Type: 'AWS::S3::Bucket'
