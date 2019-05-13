@@ -8,7 +8,7 @@ Wildfires can cause devastating destruction and cost millions of dollars in dama
 
 **Professor**: Sanjay Garje
 
-**Students**: Kevin Chuang, Anna Chow, Hemang Behl, Jason Gonsalves, Richita Das  
+**Students**: [Anna Chow](https://github.com/dragonaeve), [Hemang Behl](https://github.com/hemangbehl), [Jason Gonsalves](https://github.com/Jasg12), [Kevin Chuang](https://github.com/k-chuang), [Richita Das](https://github.com/richita-94)
 
 ## Architecture
 ![](images/CMPE_266_Architecture.png)
