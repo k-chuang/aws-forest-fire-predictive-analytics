@@ -6,7 +6,7 @@ Wildfires can cause devastating destruction and cost millions of dollars in dama
 
 **Course**: [Big Data Engineering and Analytics](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE266.html)
 
-**Professor**: Sanjay Garje
+**Professor**: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
 
 **Students**: [Anna Chow](https://github.com/dragonaeve), [Hemang Behl](https://github.com/hemangbehl), [Jason Gonsalves](https://github.com/Jasg12), [Kevin Chuang](https://github.com/k-chuang), [Richita Das](https://github.com/richita-94)
 
@@ -34,6 +34,9 @@ Wildfires can cause devastating destruction and cost millions of dollars in dama
 - SageMaker Endpoint provides a hosted machine learning model, which can be accessed using basic API calls
 - Athena uses Glue crawlers to query the raw and processed CSV files in real-time
 - Quicksight is used to visualize and explore the data, as well as create informative data analytics dashboards
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 - Lambda was connected to Redshfit using jkehler's [pre-compiled Python 3.6 and PostgreSQL drivers](https://github.com/jkehler/awslambda-psycopg2)
