@@ -34,3 +34,7 @@ Wildfires can cause devastating destruction and cost millions of dollars in dama
 - SageMaker Endpoint provides a hosted machine learning model, which can be accessed using basic API calls
 - Athena uses Glue crawlers to query the raw and processed CSV files in real-time
 - Quicksight is used to visualize and explore the data, as well as create informative data analytics dashboards
+
+## Acknowledgments
+- Lambda was connected to Redshfit using jkehler's [pre-compiled Python 3.6 and PostgreSQL drivers](https://github.com/jkehler/awslambda-psycopg2)
+- Dataset used: [USDA Forest Service Wildfire dataset](https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0009.4/) and [Kaggle](https://www.kaggle.com/rtatman/188-million-us-wildfires)
