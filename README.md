@@ -1,5 +1,5 @@
 # Forest Wildfire Analytics w/ AWS Cloud
-Wildfires can cause devastating destruction and cost millions of dollars in damage, especially with increasing human development near wilderness or rural areas. The ability to predict the cause of wildfires would be a preemptive measure to prevent and/or manage wildfires. Factors affecting wildfires would be explored and used to gauge the probability of a wildfire occurring. This can enable fire scientists to quickly determine the cause and actions to take. For this project, we will be utilizing AWS Cloud to design a machine learning workflow that is flexible, robust, and automated.
+Wildfires can cause devastating destruction and cost millions of dollars in damage, especially with increasing human development near wilderness or rural areas. The ability to predict the cause of wildfires would be a preemptive measure to prevent and/or manage wildfires. This can enable fire scientists to quickly determine the cause and actions to take. For this project, we will be utilizing AWS Cloud to design a machine learning workflow that is flexible, robust, and automated.
 
 ## Team Information
 **University**: [San Jose State University](http://www.sjsu.edu/)
