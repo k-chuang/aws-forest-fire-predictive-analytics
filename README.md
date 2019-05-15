@@ -19,6 +19,11 @@ Wildfires can cause devastating destruction and cost millions of dollars in dama
 - Local Configuration
   - Python & Jupyter notebook *[numpy, sklearn, scipy, matplotlib, Flask, boto3, psycopg2]*
 
+## Feature List
+- Predict cause of wildfire (Lightning, Smoking, etc.)
+- Provide data visualizations of wildfire
+- Provide a database to store historical wildfires that can be easily queried
+
 ## Set up
 - Download the source data file
 - Script to convert the data file into a csv format
